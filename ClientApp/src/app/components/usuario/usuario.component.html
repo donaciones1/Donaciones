@@ -1,0 +1,24 @@
+<div class="float-md-right">
+    <button  [routerLink]='["/usuario-crear"]' class="btn btn-success" style="margin-bottom: 30px;">
+     Registrar Usuario
+    </button>
+</div>
+<table class="table" >
+<tr>
+    <td>Nombre</td>
+    <td>Apellido</td>
+    <td>Organizaciones</td>
+    <td>Acciones</td>
+</tr>
+<tr  *ngFor="let usuario of usuarios" >
+    <td>{{ usuario.nombre }}</td>
+    <td>{{ usuario.apellido}}</td>
+    <td>
+      <span *ngFor="let us of usuario?.usuarioOrganizaciones">{{nombreOrganizacion(us.organizacionId)}}</span>
+    </td>
+    <td>
+        <button class="btn btn-primary" [routerLink]='["/usuario/" +  usuario.id  ]'>Editar</button>
+        <button class="btn btn-danger" (click)="borrar(usuario)">Eliminar</button>
+    </td>
+</tr>
+</table>

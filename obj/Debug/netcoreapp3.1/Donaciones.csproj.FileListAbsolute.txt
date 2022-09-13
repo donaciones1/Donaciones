@@ -1,0 +1,635 @@
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\appsettings.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\angular.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\e2e\tsconfig.e2e.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\package-lock.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\package.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.app.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.server.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.spec.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tslint.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\tsconfig.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\tslint.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\package-lock.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.exe
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.deps.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.runtimeconfig.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.runtimeconfig.dev.json
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.pdb
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\recup prog 3\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csprojAssemblyReference.cache
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.AssemblyInfoInputs.cache
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.AssemblyInfo.cs
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csproj.CoreCompileInputs.cache
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.MvcApplicationPartsAssemblyInfo.cs
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.MvcApplicationPartsAssemblyInfo.cache
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.RazorTargetAssemblyInfo.cache
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csproj.CopyComplete
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\staticwebassets\Donaciones.StaticWebAssets.Manifest.cache
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\staticwebassets\Donaciones.StaticWebAssets.xml
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.dll
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.pdb
+D:\recup prog 3\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.genruntimeconfig.cache
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\angular.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\e2e\tsconfig.e2e.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\package-lock.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\package.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.app.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.server.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.spec.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tslint.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\tsconfig.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\tslint.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.exe
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.deps.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.runtimeconfig.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.runtimeconfig.dev.json
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.pdb
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csprojAssemblyReference.cache
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.AssemblyInfoInputs.cache
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.AssemblyInfo.cs
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csproj.CoreCompileInputs.cache
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.MvcApplicationPartsAssemblyInfo.cs
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.MvcApplicationPartsAssemblyInfo.cache
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.RazorTargetAssemblyInfo.cache
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csproj.CopyComplete
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\staticwebassets\Donaciones.StaticWebAssets.Manifest.cache
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\staticwebassets\Donaciones.StaticWebAssets.xml
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.dll
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.pdb
+D:\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.genruntimeconfig.cache
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\angular.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\e2e\tsconfig.e2e.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\package-lock.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\package.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.app.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.server.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.spec.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tslint.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\tsconfig.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\tslint.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.exe
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.deps.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.runtimeconfig.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.runtimeconfig.dev.json
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.pdb
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csproj.AssemblyReference.cache
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.AssemblyInfoInputs.cache
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.AssemblyInfo.cs
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csproj.CoreCompileInputs.cache
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\staticwebassets\Donaciones.StaticWebAssets.Manifest.cache
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\staticwebassets\Donaciones.StaticWebAssets.xml
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\scopedcss\bundle\Donaciones.styles.css
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.RazorTargetAssemblyInfo.cache
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csproj.CopyComplete
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.dll
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.pdb
+C:\Users\danyo\Desktop\Modelos de Software\Donaciones\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.genruntimeconfig.cache
+D:\Donaciones\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\angular.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\e2e\tsconfig.e2e.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\package.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.app.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.server.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tsconfig.spec.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\src\tslint.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\tsconfig.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\tslint.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\ClientApp\package-lock.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.exe
+D:\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.deps.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.runtimeconfig.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.runtimeconfig.dev.json
+D:\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Donaciones.pdb
+D:\Donaciones\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.DotNet.InternalAbstractions.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Namotion.Reflection.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\NJsonSchema.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Annotations.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\NSwag.AspNetCore.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Core.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Generation.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\NSwag.Generation.AspNetCore.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Donaciones\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csprojAssemblyReference.cache
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.AssemblyInfoInputs.cache
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.AssemblyInfo.cs
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csproj.CoreCompileInputs.cache
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.MvcApplicationPartsAssemblyInfo.cs
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.MvcApplicationPartsAssemblyInfo.cache
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.RazorTargetAssemblyInfo.cache
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.csproj.CopyComplete
+D:\Donaciones\obj\Debug\netcoreapp3.1\staticwebassets\Donaciones.StaticWebAssets.Manifest.cache
+D:\Donaciones\obj\Debug\netcoreapp3.1\staticwebassets\Donaciones.StaticWebAssets.xml
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.dll
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.pdb
+D:\Donaciones\obj\Debug\netcoreapp3.1\Donaciones.genruntimeconfig.cache

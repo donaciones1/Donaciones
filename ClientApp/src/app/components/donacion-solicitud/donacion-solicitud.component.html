@@ -1,0 +1,30 @@
+<div class="float-md-right">
+    <button  [routerLink]='["/donacion-solicitud-crear"]' class="btn btn-success" style="margin-bottom: 30px;">
+     Solicitar Donación
+    </button>
+</div>
+<table class="table" >
+<tr>
+    <td>Titulo</td>
+    <td>Organizacion</td>
+    <td>Owner</td>
+    <td>Cantidad Recibida</td>
+    <td>Cantidad Requerida</td>
+    <td>Estado</td>
+    <td>Acciones</td>
+</tr>
+<tr  *ngFor="let donacionSolicitud of donacionSolicitudes" >
+    <td>{{ donacionSolicitud.titulo }}</td>
+    <td>{{ donacionSolicitud?.organizacion?.nombre}}</td>
+    <td>{{ donacionSolicitud?.owner?.nombre + ' '+ donacionSolicitud?.owner?.apellido}}</td>
+    <td>{{ donacionSolicitud?.cantidadActual}}</td>
+    <td>{{ donacionSolicitud?.cantidadFin}}</td>
+    <td *ngIf="donacionSolicitud.cantidadActual < donacionSolicitud.cantidadFin">{{ donacionSolicitud?.estado?.nombre}}</td>
+    <td *ngIf="donacionSolicitud.cantidadActual >= donacionSolicitud.cantidadFin">Completada!!</td>
+    <td *ngIf="donacionSolicitud.estadoId != 3 && donacionSolicitud.cantidadActual < donacionSolicitud.cantidadFin">
+        <button class="btn btn-primary" [routerLink]='["/donacion-solicitud/" +  donacionSolicitud.id  ]'>Editar</button>
+        <button class="btn btn-success" [routerLink]='["/donar-solicitud/" +  donacionSolicitud.id  ]'>Donar</button>
+        <button class="btn btn-warning" (click)="finalizar(donacionSolicitud.id)">Finalizar</button>
+    </td>
+</tr>
+</table>

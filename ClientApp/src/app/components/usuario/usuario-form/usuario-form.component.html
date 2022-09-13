@@ -1,0 +1,29 @@
+<h1 *ngIf="!esEditar">Registrar Usuario</h1>
+<h1 *ngIf="esEditar">Editar Usuario</h1>
+<form class="form-horizontal"
+[formGroup]="usuarioForm"
+(ngSubmit)="guardar()" >
+<fieldset>
+    <div class="form-group" [ngClass]="{'has-error': ( usuarioForm.get('nombreFormControl')?.touched || usuarioForm.get('nombreFormControl')?.dirty  && !usuarioForm.get('nombreFormControl').valid )}">
+        <label for="nombre">Nombre</label>
+        <input [(ngModel)]="nombre" id="nombre" class="form-control" type="text" required formControlName="nombreFormControl" >
+        <span class="help-block"
+        *ngIf="( usuarioForm.get('nombreFormControl')?.touched
+        || usuarioForm.get('nombreFormControl')?.dirty
+        && !usuarioForm.get('nombreFormControl')?.valid )">
+        <span *ngIf="usuarioForm.get('nombreFormControl')?.errors?.required"> Requerido </span>
+        </span>
+    </div>
+    <div class="form-group" [ngClass]="{'has-error': ( usuarioForm.get('apellidoFormControl')?.touched || usuarioForm.get('apellidoFormControl')?.dirty  && !usuarioForm.get('apellidoFormControl').valid )}">
+      <label for="apellido">Apellido</label>
+      <input [(ngModel)]="apellido" id="apellido" class="form-control" type="text" required formControlName="apellidoFormControl" >
+      <span class="help-block"
+      *ngIf="( usuarioForm.get('apellidoFormControl')?.touched
+      || usuarioForm.get('apellidoFormControl')?.dirty
+      && !usuarioForm.get('apellidoFormControl')?.valid )">
+      <span *ngIf="usuarioForm.get('apellidoFormControl')?.errors?.required"> Requerido </span>
+      </span>
+  </div>
+</fieldset>
+<button class="btn btn-primary" type="submit">Guardar</button>
+</form>

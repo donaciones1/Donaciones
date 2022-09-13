@@ -1,0 +1,57 @@
+<h1 *ngIf="!esEditar">Crear Solicitud de Donacion</h1>
+<h1 *ngIf="esEditar">Editar Solicitud de Donacion</h1>
+<form class="form-horizontal"
+[formGroup]="donacionSolicitudForm"
+(ngSubmit)="guardar()" >
+<fieldset>
+    <div class="form-group" [ngClass]="{'has-error': ( donacionSolicitudForm.get('tituloFormControl')?.touched || donacionSolicitudForm.get('tituloFormControl')?.dirty  && !donacionSolicitudForm.get('tituloFormControl').valid )}">
+        <label for="titulo">Titulo</label>
+        <input [(ngModel)]="titulo" id="titulo" class="form-control" type="text" required formControlName="tituloFormControl" >
+        <span class="help-block"
+        *ngIf="( donacionSolicitudForm.get('tituloFormControl')?.touched
+        || donacionSolicitudForm.get('tituloFormControl')?.dirty
+        && !donacionSolicitudForm.get('tituloFormControl')?.valid )">
+        <span *ngIf="donacionSolicitudForm.get('tituloFormControl')?.errors?.required"> Requerido </span>
+        </span>
+    </div>
+    <div class="form-group" [ngClass]="{'has-error': ( donacionSolicitudForm.get('observacionFormControl')?.touched || donacionSolicitudForm.get('observacionFormControl')?.dirty  && !donacionSolicitudForm.get('observacionFormControl').valid )}">
+      <label for="observacion">observacion</label>
+      <input [(ngModel)]="observacion" id="observacion" class="form-control" type="text" required formControlName="observacionFormControl" >
+      <span class="help-block"
+      *ngIf="( donacionSolicitudForm.get('observacionFormControl')?.touched
+      || donacionSolicitudForm.get('observacionFormControl')?.dirty
+      && !donacionSolicitudForm.get('observacionFormControl')?.valid )">
+      <span *ngIf="donacionSolicitudForm.get('observacionFormControl')?.errors?.required"> Requerido </span>
+      </span>
+    </div>
+    <div class="form-group" [ngClass]="{'has-error': ( donacionSolicitudForm.get('cantidadFinFormControl')?.touched || donacionSolicitudForm.get('cantidadFinFormControl')?.dirty  && !donacionSolicitudForm.get('cantidadFinFormControl').valid )}">
+      <label for="cantidadFin">Cantidad Necesaria</label>
+      <input [(ngModel)]="cantidadFin" min="0"  id="cantidadFin" class="form-control" type="number"  required formControlName="cantidadFinFormControl" >
+      <span class="help-block"
+      *ngIf="( donacionSolicitudForm.get('cantidadFinFormControl').touched
+      || donacionSolicitudForm.get('cantidadFinFormControl').dirty
+      && !donacionSolicitudForm.get('cantidadFinFormControl').valid )">
+      <span *ngIf="donacionSolicitudForm.get('cantidadFinFormControl')?.errors?.required"> Requerido </span>
+      </span>
+    </div>
+    <div class="form-group">
+      <label for="organizacionId">Organizacion</label>
+      <select [value]="organizacionId" [(ngModel)]="organizacionId" formControlName="organizacionFormControl" required  class="form-control" id="organizacionId">
+      <option *ngFor="let organizacion of organizaciones"  type="number" [value]="organizacion.id">{{organizacion.nombre}}</option>
+      </select>
+    </div>
+    <div class="form-group">
+        <label for="ownerId">Owner</label>
+        <select [value]="ownerId" [(ngModel)]="ownerId" formControlName="ownerFormControl" required  class="form-control" id="ownerId">
+        <option *ngFor="let usuario of usuarios"  type="number" [value]="usuario.id">{{usuario.nombre + " " + usuario.apellido}}</option>
+        </select>
+    </div>
+    <div  class="form-group">
+      <label for="estadoId">Estado</label>
+      <select [value]="estadoId" [(ngModel)]="estadoId" formControlName="estadoFormControl" required  class="form-control" id="estadoId">
+      <option *ngFor="let estado of estados"  type="number" [value]="estado.id">{{estado.nombre}}</option>
+      </select>
+    </div>
+</fieldset>
+<button class="btn btn-primary" type="submit">Guardar</button>
+</form>

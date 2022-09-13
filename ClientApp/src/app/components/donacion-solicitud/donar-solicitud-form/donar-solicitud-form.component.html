@@ -1,0 +1,37 @@
+<h1>Realizar Donación </h1>
+<h2>Donación de: {{ donacionSolicitud?.titulo}}</h2>
+<form class="form-horizontal"
+[formGroup]="donacionForm"
+(ngSubmit)="guardar()" >
+<fieldset>
+    <div class="form-group" [ngClass]="{'has-error': ( donacionForm.get('observacionFormControl')?.touched || donacionForm.get('observacionFormControl')?.dirty  && !donacionForm.get('observacionFormControl').valid )}">
+      <label for="observacion">Observaciones</label>
+      <input [(ngModel)]="observacion" id="observacion" class="form-control" type="text" required formControlName="observacionFormControl" >
+      <span class="help-block"
+      *ngIf="( donacionForm.get('observacionFormControl')?.touched
+      || donacionForm.get('observacionFormControl')?.dirty
+      && !donacionForm.get('observacionFormControl')?.valid )">
+      <span *ngIf="donacionForm.get('observacionFormControl')?.errors?.required"> Requerido </span>
+      </span>
+    </div>
+    <span style="color:red;">Cantidad Faltante <b>{{donacionSolicitud?.cantidadFin-donacionSolicitud?.cantidadActual}}</b></span>
+    <div class="form-group" [ngClass]="{'has-error': ( donacionForm.get('cantidadFormControl')?.touched || donacionForm.get('cantidadFormControl')?.dirty  && !donacionForm.get('cantidadFormControl').valid )}">
+      <label for="cantidad">Cantidad a Donar</label>
+      <input [(ngModel)]="cantidad" min="0" id="cantidad" class="form-control" type="number"  required formControlName="cantidadFormControl" >
+      <span class="help-block"
+      *ngIf="( donacionForm.get('cantidadFormControl').touched
+      || donacionForm.get('cantidadFormControl').dirty
+      && !donacionForm.get('cantidadFormControl').valid )">
+      <span *ngIf="donacionForm.get('cantidadFormControl')?.errors?.required"> Requerido </span>
+      </span>
+    </div>
+    <div class="form-group">
+        <label for="donanteId">Donante</label>
+        <select [value]="donanteId" [(ngModel)]="donanteId" formControlName="donanteFormControl" required  class="form-control" id="donanteId">
+        <option *ngFor="let usuario of usuarios"  type="number" [value]="usuario.id">{{usuario.nombre + " " + usuario.apellido}}</option>
+        </select>
+    </div>
+</fieldset>
+<button class="btn btn-primary" type="submit">Guardar</button>
+<button class="btn btn-secondary" routerLink="/donacion-solicitud">Cancelar</button>
+</form>
